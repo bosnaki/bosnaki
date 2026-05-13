@@ -1,7 +1,6 @@
 ## Hi there 👋
 #### 💫 About Me: Computer Science graduate passionate about problem solving, graphics, UI/UX, and building software with purpose
-#### 🔭 Currently working on a game that adapts based on the player's emotions
-#### 🌱 I’m currently learning how to create thoughtful and interactive systems that combine technical skill, creativity, and real-world impact
+#### 🌱 Passionate about creating thoughtful and interactive systems that combine technical skill, creativity, and real-world impact
 
 
 
